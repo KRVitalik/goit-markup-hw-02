@@ -127,6 +127,12 @@ h1 {
   letter-spacing: 0.02em;
   color: var(--accent-color);
 }
+footer {
+  background-color: var(--primary-title-color);
+}
+footer .logo-b {
+  color: var(--light-color-button);
+}
 
 /* Portfolio button */
 
